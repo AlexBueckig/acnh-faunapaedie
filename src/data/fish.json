@@ -1,0 +1,562 @@
+{
+  "Bitterling": {
+    "Fundort": "Fluss",
+    "Größe": "Winzig",
+    "Monat": "November bis März",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "900 Sternis"
+  },
+  "Döbel": {
+    "Fundort": "Fluss",
+    "Größe": "Winzig",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "200 Sternis"
+  },
+  "Karausche": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "160 Sternis"
+  },
+  "Hasel": {
+    "Fundort": "Fluss",
+    "Größe": "Mittel",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "240 Sternis"
+  },
+  "Karpfen": {
+    "Fundort": "Teich",
+    "Größe": "Groß",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "300 Sternis"
+  },
+  "Koi-Karpfen": {
+    "Fundort": "Teich",
+    "Größe": "Groß",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "4.000 Sternis"
+  },
+  "Goldfisch": {
+    "Fundort": "Teich",
+    "Größe": "Winzig",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "1.300 Sternis"
+  },
+  "Teleskopauge": {
+    "Fundort": "Teich",
+    "Größe": "Winzig",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "1.300 Sternis"
+  },
+  "Ranchu": {
+    "Fundort": "Teich",
+    "Größe": "Klein",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "4.500 Sternis"
+  },
+  "Kilifisch": {
+    "Fundort": "Teich",
+    "Größe": "Winzig",
+    "Monat": "April bis August",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "300 Sternis"
+  },
+  "Flusskrebs": {
+    "Fundort": "Teich",
+    "Größe": "Mittel",
+    "Monat": "April bis September",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "200 Sternis"
+  },
+  "Weichschildkröte": {
+    "Fundort": "Fluss",
+    "Größe": "Mittel",
+    "Monat": "August bis September",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "3.750 Sternis"
+  },
+  "Schnappschildkröte": {
+    "Fundort": "Fluss",
+    "Größe": "Sehr groß",
+    "Monat": "April bis Oktober",
+    "Uhrzeit": "21:00 Uhr bis 04:00 Uhr",
+    "Wert": "5.000 Sternis"
+  },
+  "Kaulquappe": {
+    "Fundort": "Teich",
+    "Größe": "Winzig",
+    "Monat": "März bis Juli",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "100 Sternis"
+  },
+  "Frosch": {
+    "Fundort": "Teich",
+    "Größe": "Klein",
+    "Monat": "Mai bis August",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "120 Sternis"
+  },
+  "Flussgrundel": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "400 Sternis"
+  },
+  "Bachschmerle": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "März bis Mai",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "400 Sternis"
+  },
+  "Katzenwels": {
+    "Fundort": "Teich",
+    "Größe": "Sehr groß",
+    "Monat": "Mai bis Oktober",
+    "Uhrzeit": "06:00 Uhr bis 09:00 Uhr",
+    "Wert": "800 Sternis"
+  },
+  "Schlangenkopf": {
+    "Fundort": "Teich",
+    "Größe": "Sehr groß",
+    "Monat": "Juni bis August",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "5.500 Sternis"
+  },
+  "Sonnenbarsch": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "180 Sternis"
+  },
+  "Flussbarsch": {
+    "Fundort": "Fluss",
+    "Größe": "Mittel",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "300 Sternis"
+  },
+  "Barsch": {
+    "Fundort": "Fluss",
+    "Größe": "Groß",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "400 Sternis"
+  },
+  "Tilapia": {
+    "Fundort": "Fluss",
+    "Größe": "Mittel",
+    "Monat": "Juni bis Oktober",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "800 Sternis"
+  },
+  "Hecht": {
+    "Fundort": "Fluss",
+    "Größe": "Sehr groß",
+    "Monat": "September bis Dezember",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "1.800 Sternis"
+  },
+  "Stint": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Dezember bis Februar",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "400 Sternis"
+  },
+  "Ayu": {
+    "Fundort": "Fluss",
+    "Größe": "Mittel",
+    "Monat": "Juli bis September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "900 Sternis"
+  },
+  "Masulachs": {
+    "Fundort": "Flussquelle und Wasserfall",
+    "Größe": "Mittel",
+    "Monat": "März bis Juni und September bis November",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "1.000 Sternis"
+  },
+  "Saibling": {
+    "Fundort": "Flussquelle und Wasserfall",
+    "Größe": "Mittel",
+    "Monat": "März bis Juni und September bis November",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "3.800 Sternis"
+  },
+  "Goldforelle": {
+    "Fundort": "Flussquelle und Wasserfall",
+    "Größe": "Groß",
+    "Monat": "März bis Mai und September bis November",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "15.000 Sternis"
+  },
+  "Huchen": {
+    "Fundort": "Flussquelle und Wasserfall",
+    "Größe": "Riesig",
+    "Monat": "Dezember bis März",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "15.000 Sternis"
+  },
+  "Lachs": {
+    "Fundort": "Flussmündung",
+    "Größe": "Groß",
+    "Monat": "September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "700 Sternis"
+  },
+  "Königslachs": {
+    "Fundort": "Flussmündung",
+    "Größe": "Riesig",
+    "Monat": "September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "1.800 Sternis"
+  },
+  "Wollhandkrabbe": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "September bis November",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "2.000 Sternis"
+  },
+  "Guppy": {
+    "Fundort": "Fluss",
+    "Größe": "Winzig",
+    "Monat": "April bis November",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "1.300 Sternis"
+  },
+  "Saugbarbe": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Mai bis September",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "1.500 Sternis"
+  },
+  "Skalar": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Mai bis Oktober",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "3.000 Sternis"
+  },
+  "Kampffisch": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Mai bis Oktober",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "2.500 Sternis"
+  },
+  "Neonsalmler": {
+    "Fundort": "Fluss",
+    "Größe": "Winzig",
+    "Monat": "April bis November",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "500 Sternis"
+  },
+  "Regenbogenfisch": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Mai bis Oktober",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Wert": "800 Sternis"
+  },
+  "Piranha": {
+    "Fundort": "Fluss",
+    "Größe": "Klein",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr und 20:00 Uhr bis 04:00 Uhr",
+    "Wert": "2.500 Sternis"
+  },
+  "Arowana": {
+    "Fundort": "Fluss",
+    "Größe": "Groß",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "10.000 Sternis"
+  },
+  "Lachssalmler": {
+    "Fundort": "Fluss",
+    "Größe": "Sehr groß",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Wert": "15.000 Sternis"
+  },
+  "Knochenhecht": {
+    "Fundort": "Teich",
+    "Größe": "Riesig",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "6.000 Sternis"
+  },
+  "Arapaima": {
+    "Fundort": "Fluss",
+    "Größe": "Sehr groß",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "10.000 Sternis"
+  },
+  "Flösselhecht": {
+    "Fundort": "Fluss",
+    "Größe": "Groß",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "21:00 Uhr bis 04:00 Uhr",
+    "Wert": "4.000 Sternis"
+  },
+  "Stör": {
+    "Fundort": "Flussmündung",
+    "Größe": "Riesig",
+    "Monat": "September bis März",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "10.000 Sternis"
+  },
+  "See-Engel": {
+    "Fundort": "Meer",
+    "Größe": "Winzig",
+    "Monat": "Dezember bis März",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "1.000 Sternis"
+  },
+  "Seepferdchen": {
+    "Fundort": "Meer",
+    "Größe": "Winzig",
+    "Monat": "April bis November",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "1.100 Sternis"
+  },
+  "Anemonenfisch": {
+    "Fundort": "Meer",
+    "Größe": "Winzig",
+    "Monat": "April bis September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "650 Sternis"
+  },
+  "Paletten-Doktorfisch": {
+    "Fundort": "Meer",
+    "Größe": "Klein",
+    "Monat": "April bis September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "1.000 Sternis"
+  },
+  "Falterfisch": {
+    "Fundort": "Meer",
+    "Größe": "Klein",
+    "Monat": "April bis September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "1.000 Sternis"
+  },
+  "Napoleonfisch": {
+    "Fundort": "Meer",
+    "Größe": "Riesig",
+    "Monat": "Juli bis August",
+    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Wert": "10.000 Sternis"
+  },
+  "Rotfeuerfisch": {
+    "Fundort": "Meer",
+    "Größe": "Mittel",
+    "Monat": "April bis November",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "500 Sternis"
+  },
+  "Kugelfisch": {
+    "Fundort": "Meer",
+    "Größe": "Mittel",
+    "Monat": "November bis Februar",
+    "Uhrzeit": "21:00 Uhr bis 04:00Uhr",
+    "Wert": "5.000 Sternis"
+  },
+  "Igelfisch": {
+    "Fundort": "Meer",
+    "Größe": "Mittel",
+    "Monat": "Juli bis September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "250 Sternis"
+  },
+  "Sardelle": {
+    "Fundort": "Meer",
+    "Größe": "Klein",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Wert": "200 Sternis"
+  },
+  "Makrele": {
+    "Fundort": "Meer",
+    "Größe": "Klein",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "150 Sternis"
+  },
+  "Schnabelbarsch": {
+    "Fundort": "Meer",
+    "Größe": "Mittel",
+    "Monat": "Marz bis November",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "5.000 Sternis"
+  },
+  "Seebarsch": {
+    "Fundort": "Meer",
+    "Größe": "Sehr groß",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "400 Sternis"
+  },
+  "Kaiserschnapper": {
+    "Fundort": "Meer",
+    "Größe": "Mittel",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "3.000 Sternis"
+  },
+  "Kliesche": {
+    "Fundort": "Meer",
+    "Größe": "Mittel",
+    "Monat": "Oktober bis April",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "300 Sternis"
+  },
+  "Flunder": {
+    "Fundort": "Meer",
+    "Größe": "Groß",
+    "Monat": "Oktober bis April",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "800 Sternis"
+  },
+  "Kalmar": {
+    "Fundort": "Meer",
+    "Größe": "Mittel",
+    "Monat": "Dezember bis August",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "500 Sternis"
+  },
+  "Muräne": {
+    "Fundort": "Meer",
+    "Größe": "Sehr groß",
+    "Monat": "August bis Oktober",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "2.000 Sternis"
+  },
+  "Nasenmuräne": {
+    "Fundort": "Meer",
+    "Größe": "Schmal",
+    "Monat": "Juni bis Oktober",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "600 Sternis"
+  },
+  "Thunfisch": {
+    "Fundort": "Steg",
+    "Größe": "Riesig",
+    "Monat": "November bis April",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "7.000 Sternis"
+  },
+  "Marlin": {
+    "Fundort": "Steg",
+    "Größe": "Riesig",
+    "Monat": "November bis April und Juli bis September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "10.000 Sternis"
+  },
+  "Stachelmakrele": {
+    "Fundort": "Steg",
+    "Größe": "Sehr groß",
+    "Monat": "Mai bis Oktober",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "4.500 Sternis"
+  },
+  "Goldmakrele": {
+    "Fundort": "Steg",
+    "Größe": "Sehr groß",
+    "Monat": "Mai bis Oktober",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "6.000 Sternis"
+  },
+  "Mondfisch": {
+    "Fundort": "Meer",
+    "Größe": "Riesig mit Rückenflosse",
+    "Monat": "Juli bis September",
+    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Wert": "4.000 Sternis"
+  },
+  "Rochen": {
+    "Fundort": "Meer",
+    "Größe": "Sehr groß",
+    "Monat": "August bis November",
+    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Wert": "3.000 Sternis"
+  },
+  "Sägehai": {
+    "Fundort": "Meer",
+    "Größe": "Riesig mit Rückenflosse",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "12.000 Sternis"
+  },
+  "Hammerhai": {
+    "Fundort": "Meer",
+    "Größe": "Riesig mit Rückenflosse",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "8.000 Sternis"
+  },
+  "Hai": {
+    "Fundort": "Meer",
+    "Größe": "Riesig mit Rückenflosse",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "15.000 Sternis"
+  },
+  "Walhai": {
+    "Fundort": "Meer",
+    "Größe": "Riesig mit Rückenflosse",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "13.000 Sternis"
+  },
+  "Schiffshalter": {
+    "Fundort": "Meer",
+    "Größe": "Riesig mit Rückenflosse",
+    "Monat": "Juni bis September",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "1.500 Sternis"
+  },
+  "Anglerfisch": {
+    "Fundort": "Meer",
+    "Größe": "Sehr groß",
+    "Monat": "November bis März",
+    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Wert": "2.000 Sternis"
+  },
+  "Riemenfisch": {
+    "Fundort": "Meer",
+    "Größe": "Riesig",
+    "Monat": "Dezember bis Mai",
+    "Uhrzeit": "Den ganzen Tag über",
+    "Wert": "9.000 Sternis"
+  },
+  "Glaskopffisch": {
+    "Fundort": "Meer",
+    "Größe": "Klein",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": "21:00 Uhr bis 04:00 Uhr",
+    "Wert": "15.000 Sternis"
+  },
+  "Quastenflosser": {
+    "Fundort": "Meer bei Regen",
+    "Größe": "Riesig",
+    "Monat": "Das ganze Jahr über",
+    "Uhrzeit": " Den ganzen Tag über",
+    "Wert": "15.000 Sternis"
+  }
+}
