@@ -3,168 +3,177 @@
     "Name": "Kohlweißling",
     "Fundort": "Flattert herum",
     "Monat": ["September", "Juni"],
-    "Uhrzeit": ["04:00 Uhr", "19 Uhr"],
+    "Uhrzeit": ["04:00", "19"],
     "Wert": "160 Sternis"
   },
   {
     "Name": "Zitronenfalter",
     "Fundort": "Flattert herum",
-    "Monat": ["März", "Juni und September", "Oktober"],
-    "Uhrzeit": ["04:00", "19 Uhr"],
+    "Monat": [
+      ["März", "Juni"],
+      ["September", "Oktober"]
+    ],
+    "Uhrzeit": ["04:00", "19"],
     "Wert": "160 Sternis"
   },
   {
     "Name": "Schwalbenschwanz",
     "Fundort": "Flattert herum",
     "Monat": ["März", "September"],
-    "Uhrzeit": ["04:00 Uhr", "19 Uhr"],
+    "Uhrzeit": ["04:00", "19"],
     "Wert": "240 Sternis"
   },
   {
     "Name": "Ritterfalter",
     "Fundort": "Flattert herum",
     "Monat": ["März", "Juni"],
-    "Uhrzeit": ["04:00 Uhr", "19 Uhr"],
+    "Uhrzeit": ["04:00", "19"],
     "Wert": "2.500 Sternis"
   },
   {
     "Name": "Kolibrifalter",
     "Fundort": "Flattert herum",
     "Monat": ["April", "August"],
-    "Uhrzeit": ["04:00 Uhr", "19 Uhr"],
+    "Uhrzeit": ["04:00", "19"],
     "Wert": "300 Sternis"
   },
   {
     "Name": "Weiße Baumnymphe",
     "Fundort": "Flattert herum",
     "Monat": "Das ganze Jahr über",
-    "Uhrzeit": ["08:00 Uhr", "19 Uhr"],
+    "Uhrzeit": ["08:00", "19"],
     "Wert": "1.000 Sternis"
   },
   {
     "Name": "Japan-Schillerfalter",
     "Fundort": "Flattert herum",
     "Monat": ["Mai", "August"],
-    "Uhrzeit": ["08:00", "19 Uhr"],
+    "Uhrzeit": ["08:00", "19"],
     "Wert": "300 Sternis"
   },
   {
     "Name": "Monarchfalter",
     "Fundort": "Flattert herum",
     "Monat": ["September", "November"],
-    "Uhrzeit": ["08:00", "17 Uhr"],
+    "Uhrzeit": ["08:00", "17"],
     "Wert": "140 Sternis"
   },
   {
     "Name": "Himmelsfalter",
     "Fundort": "Flattert herum",
-    "Monat": ["Dezember", "März und Juni", "September"],
-    "Uhrzeit": ["19:00 Uhr", "08:00 Uhr"],
+    "Monat": [
+      ["Dezember", "März"],
+      ["Juni", "September"]
+    ],
+    "Uhrzeit": ["19:00", "08:00"],
     "Wert": "4.000 Sternis"
   },
   {
     "Name": "Agrias-Falter",
     "Fundort": "Flattert herum",
     "Monat": ["April", "September"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "3.000 Sternis"
   },
   {
     "Name": "Troides brookiana",
     "Fundort": "Flattert herum",
-    "Monat": ["Dezember", "Februar und April", "September"],
-    "Uhrzeit": ["08:00", "17:00 Uhr"],
+    "Monat": [
+      ["Dezember", "Februar"],
+      ["April", "September"]
+    ],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "2.500 Sternis"
   },
   {
     "Name": "Vogelfalter",
     "Fundort": "Flattert herum",
     "Monat": ["Mai", "September"],
-    "Uhrzeit": ["08:00 Uhr", "16:00 Uhr"],
+    "Uhrzeit": ["08:00", "16:00"],
     "Wert": "4.000 Sternis"
   },
   {
     "Name": "Motte",
     "Fundort": "Flattert um Lichtquellen",
     "Monat": "Das ganze Jahr über",
-    "Uhrzeit": ["19:00 Uhr", "04:00 Uhr"],
+    "Uhrzeit": ["19:00", "04:00"],
     "Wert": "130 Sternis"
   },
   {
     "Name": "Atlasspinner",
     "Fundort": "An Bäumen",
     "Monat": ["April", "September"],
-    "Uhrzeit": ["19:00 Uhr", "04:00 Uhr"],
+    "Uhrzeit": ["19:00", "04:00"],
     "Wert": "3.000 Sternis"
   },
   {
     "Name": "Regenbogenfalter",
     "Fundort": "Flattert herum",
     "Monat": ["April", "September"],
-    "Uhrzeit": ["08:00 Uhr", "16:00 Uhr"],
+    "Uhrzeit": ["08:00", "16:00"],
     "Wert": "2.500 Sternis"
   },
   {
     "Name": "Nasenschrecke",
     "Fundort": "Am Boden",
     "Monat": ["April", "November"],
-    "Uhrzeit": ["08:00 Uhr", "19:00 Uhr"],
+    "Uhrzeit": ["08:00", "19:00"],
     "Wert": "200 Sternis"
   },
   {
     "Name": "Wanderschrecke",
     "Fundort": "Am Boden",
     "Monat": ["August", "November"],
-    "Uhrzeit": ["08:00 Uhr", "19 Uhr"],
+    "Uhrzeit": ["08:00", "19"],
     "Wert": "600 Sternis"
   },
   {
     "Name": "Heuschrecke",
     "Fundort": "Am Boden",
     "Monat": ["August", "November"],
-    "Uhrzeit": ["08:00 Uhr", "19:00 Uhr"],
+    "Uhrzeit": ["08:00", "19:00"],
     "Wert": "400 Sternis"
   },
   {
     "Name": "Grashüpfer",
     "Fundort": "Am Boden",
     "Monat": ["Juli", "September"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "160 Sternis"
   },
   {
     "Name": "Grille",
     "Fundort": "Am Boden",
     "Monat": ["September", "November"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "130 Sternis"
   },
   {
     "Name": "Singgrille",
     "Fundort": "Am Boden",
     "Monat": ["September", "Oktober"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "430 Sternis"
   },
   {
     "Name": "Gottesanbeterin",
     "Fundort": "Auf Blumen",
     "Monat": ["März", "November"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "430 Sternis"
   },
   {
     "Name": "Orchideenmantis",
     "Fundort": "Auf weißen Blumen",
     "Monat": ["März", "November"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "2.400 Sternis"
   },
   {
     "Name": "Honigbiene",
     "Fundort": "Fliegt herum",
     "Monat": ["März", "Juli"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "200 Sternis"
   },
   {
@@ -178,35 +187,38 @@
     "Name": "Braunzikade",
     "Fundort": "An Bäumen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "250 Sternis"
   },
   {
     "Name": "Hyalessa-Zikade",
     "Fundort": "An Bäumen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "300 Sternis"
   },
   {
     "Name": "Riesenzikade",
     "Fundort": "An Bäumen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "500 Sternis"
   },
   {
     "Name": "Bergzikade",
     "Fundort": "An Bäumen",
     "Monat": ["August", "September"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "400 Sternis"
   },
   {
     "Name": "Abendzikade",
     "Fundort": "An Bäumen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["04:00 Uhr", "08:00 Uhr und 16:00 Uhr", "19:00 Uhr"],
+    "Uhrzeit": [
+      ["04:00", "08:00 "],
+      ["16:00", "19:00"]
+    ],
     "Wert": "550 Sternis"
   },
   {
@@ -220,21 +232,21 @@
     "Name": "Feuerlibelle",
     "Fundort": "Fliegt umher",
     "Monat": ["September", "Oktober"],
-    "Uhrzeit": ["08:00 Uhr", "19:00 Uhr"],
+    "Uhrzeit": ["08:00", "19:00"],
     "Wert": "180 Sternis"
   },
   {
     "Name": "Königslibelle",
     "Fundort": "Fliegt umher",
     "Monat": ["April", "Oktober"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "230 Sternis"
   },
   {
     "Name": "Quelljungfer",
     "Fundort": "Fliegt umher",
     "Monat": ["Mai", "Oktober"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "4.500 Sternis"
   },
   {
@@ -248,7 +260,7 @@
     "Name": "Leuchtkäfer",
     "Fundort": "Fliegt umher",
     "Monat": "Juni",
-    "Uhrzeit": ["19:00 Uhr", "04:00 Uhr"],
+    "Uhrzeit": ["19:00", "04:00"],
     "Wert": "300 Sternis"
   },
   {
@@ -262,21 +274,21 @@
     "Name": "Wasserläufer",
     "Fundort": "Auf Teichen",
     "Monat": ["Mai", "September"],
-    "Uhrzeit": ["08:00 Uhr", "19:00 Uhr"],
+    "Uhrzeit": ["08:00", "19:00"],
     "Wert": "130 Sternis"
   },
   {
     "Name": "Schwimmkäfer",
     "Fundort": "In Flüssen und Teichen",
     "Monat": ["Mai", "September"],
-    "Uhrzeit": ["08:00 Uhr", "19:00 Uhr"],
+    "Uhrzeit": ["08:00", "19:00"],
     "Wert": "800 Sternis"
   },
   {
     "Name": "Riesenwanze",
     "Fundort": "In Flüssen und Teichen",
     "Monat": ["April", "September"],
-    "Uhrzeit": ["19:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["19:00", "08:00"],
     "Wert": "2.000 Sternis"
   },
   {
@@ -290,14 +302,14 @@
     "Name": "Gesichtswanze",
     "Fundort": "Auf Blumen",
     "Monat": ["März", "Oktober"],
-    "Uhrzeit": ["19:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["19:00", "08:00"],
     "Wert": "1.000 Sternis"
   },
   {
     "Name": "Marienkäfer",
     "Fundort": "Auf Blumen",
-    "Monat": ["März", "Juni und im Oktober"],
-    "Uhrzeit": ["08:00 Uhr", "17:00 Uhr"],
+    "Monat": [["März", "Juni"], ["Oktober"]],
+    "Uhrzeit": ["08:00", "17:00"],
     "Wert": "200 Sternis"
   },
   {
@@ -317,7 +329,10 @@
   {
     "Name": "Geigenkäfer",
     "Fundort": "Auf Baumstümpfen",
-    "Monat": ["Mai", "Juni und September", "November"],
+    "Monat": [
+      ["Mai", "Juni"],
+      ["September", "November"]
+    ],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "450 Sternis"
   },
@@ -360,7 +375,7 @@
     "Name": "Goldskarabäus",
     "Fundort": "An Bäumen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["23.00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["23.00", "08:00"],
     "Wert": "10.000 Sternis"
   },
   {
@@ -374,7 +389,7 @@
     "Name": "Goliathkäfer",
     "Fundort": "An Palmen",
     "Monat": ["Juni", "September"],
-    "Uhrzeit": ["17.00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17.00", "08:00"],
     "Wert": "8.000 Sternis"
   },
   {
@@ -395,70 +410,73 @@
     "Name": "Riesen-Hirschkäfer",
     "Fundort": "An Bäumen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["23.00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["23.00", "08:00"],
     "Wert": "10.000 Sternis"
   },
   {
     "Name": "Pracht-Hirschkäfer",
     "Fundort": "An Bäumen",
     "Monat": ["Juni", "September"],
-    "Uhrzeit": ["19:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["19:00", "08:00"],
     "Wert": "6.000 Sternis"
   },
   {
     "Name": "Cyclommatus",
     "Fundort": "An Palmen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "8.000 Sternis"
   },
   {
     "Name": "Allotopus rosenbergi",
     "Fundort": "An Palmen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "12.000 Sternis"
   },
   {
     "Name": "Giraffenhirschkäfer",
     "Fundort": "An Bäumen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "12.000 Sternis"
   },
   {
     "Name": "Nashornkäfer",
     "Fundort": "An Bäumen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "1.350 Sternis"
   },
   {
     "Name": "Atlaskäfer",
     "Fundort": "An Palmen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "8.000 Sternis"
   },
   {
     "Name": "Elefantenkäfer",
     "Fundort": "An Palmen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "8.000 Sternis"
   },
   {
     "Name": "Herkuleskäfer",
     "Fundort": "An Palmen",
     "Monat": ["Juli", "August"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "12.000 Sternis"
   },
   {
     "Name": "Stabschrecke",
     "Fundort": "Fällt aus Bäumen, wenn ihr schüttelt",
     "Monat": ["Juli", "November"],
-    "Uhrzeit": ["04:00 Uhr", "08:00 Uhr und 17:00 Uhr", "19:00 Uhr"],
+    "Uhrzeit": [
+      ["04:00", "08:00 "],
+      ["17:00", "19:00"]
+    ],
     "Wert": "600 Sternis"
   },
   {
@@ -486,7 +504,7 @@
     "Name": "Einsiedlerkrebs",
     "Fundort": "Am Strand",
     "Monat": "Das ganze Jahr über",
-    "Uhrzeit": ["19:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["19:00", "08:00"],
     "Wert": "1.000 Sternis"
   },
   {
@@ -507,7 +525,7 @@
     "Name": "Mücke",
     "Fundort": "Fliegt herum",
     "Monat": ["Juni", "September"],
-    "Uhrzeit": ["17:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["17:00", "08:00"],
     "Wert": "130 Sternis"
   },
   {
@@ -528,35 +546,35 @@
     "Name": "Kugelassel",
     "Fundort": "Krabbelt heraus, wenn ihr Felsen anstoßt",
     "Monat": ["September", "Juni"],
-    "Uhrzeit": ["23:00 Uhr", "16:00 Uhr"],
+    "Uhrzeit": ["23:00", "16:00"],
     "Wert": "250 Sternis"
   },
   {
     "Name": "Hundertfüßer",
     "Fundort": "Krabbelt heraus, wenn ihr Felsen anstoßt",
     "Monat": ["September", "Juni"],
-    "Uhrzeit": ["16:00 Uhr", "23:00 Uhr"],
+    "Uhrzeit": ["16:00", "23:00"],
     "Wert": "300 Sternis"
   },
   {
     "Name": "Spinne",
     "Fundort": "Fällt aus Bäumen, wenn ihr schüttelt",
     "Monat": "Das ganze Jahr über",
-    "Uhrzeit": ["19:00 Uhr", "08:00 Uhr"],
+    "Uhrzeit": ["19:00", "08:00"],
     "Wert": "600 Sternis"
   },
   {
     "Name": "Vogelspinne",
     "Fundort": "Am Boden",
     "Monat": ["November", "April"],
-    "Uhrzeit": ["19:00 Uhr", "04:00 Uhr"],
+    "Uhrzeit": ["19:00", "04:00"],
     "Wert": "8.000 Sternis"
   },
   {
     "Name": "Skorpion",
     "Fundort": "Am Boden",
     "Monat": ["Mai", "Oktober"],
-    "Uhrzeit": ["19:00 Uhr", "04:00 Uhr"],
+    "Uhrzeit": ["19:00", "04:00"],
     "Wert": "8.000 Sternis"
   }
 ]
