@@ -1,562 +1,657 @@
-{
-  "Bitterling": {
+[
+  {
+    "Name": "Bitterling",
     "Fundort": "Fluss",
     "Größe": "Winzig",
-    "Monat": "November bis März",
+    "Monat": ["November", "März"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "900 Sternis"
   },
-  "Döbel": {
+  {
+    "Name": "Döbel",
     "Fundort": "Fluss",
     "Größe": "Winzig",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "200 Sternis"
   },
-  "Karausche": {
+  {
+    "Name": "Karausche",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "160 Sternis"
   },
-  "Hasel": {
+  {
+    "Name": "Hasel",
     "Fundort": "Fluss",
     "Größe": "Mittel",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "240 Sternis"
   },
-  "Karpfen": {
+  {
+    "Name": "Karpfen",
     "Fundort": "Teich",
     "Größe": "Groß",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "300 Sternis"
   },
-  "Koi-Karpfen": {
+  {
+    "Name": "Koi-Karpfen",
     "Fundort": "Teich",
     "Größe": "Groß",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "4.000 Sternis"
   },
-  "Goldfisch": {
+  {
+    "Name": "Goldfisch",
     "Fundort": "Teich",
     "Größe": "Winzig",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "1.300 Sternis"
   },
-  "Teleskopauge": {
+  {
+    "Name": "Teleskopauge",
     "Fundort": "Teich",
     "Größe": "Winzig",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "1.300 Sternis"
   },
-  "Ranchu": {
+  {
+    "Name": "Ranchu",
     "Fundort": "Teich",
     "Größe": "Klein",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "4.500 Sternis"
   },
-  "Kilifisch": {
+  {
+    "Name": "Kilifisch",
     "Fundort": "Teich",
     "Größe": "Winzig",
-    "Monat": "April bis August",
+    "Monat": ["April", "August"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "300 Sternis"
   },
-  "Flusskrebs": {
+  {
+    "Name": "Flusskrebs",
     "Fundort": "Teich",
     "Größe": "Mittel",
-    "Monat": "April bis September",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["April", "September"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "200 Sternis"
   },
-  "Weichschildkröte": {
+  {
+    "Name": "Weichschildkröte",
     "Fundort": "Fluss",
     "Größe": "Mittel",
-    "Monat": "August bis September",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["August", "September"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "3.750 Sternis"
   },
-  "Schnappschildkröte": {
+  {
+    "Name": "Schnappschildkröte",
     "Fundort": "Fluss",
     "Größe": "Sehr groß",
-    "Monat": "April bis Oktober",
-    "Uhrzeit": "21:00 Uhr bis 04:00 Uhr",
+    "Monat": ["April", "Oktober"],
+    "Uhrzeit": ["21:00", "04:00"],
     "Wert": "5.000 Sternis"
   },
-  "Kaulquappe": {
+  {
+    "Name": "Kaulquappe",
     "Fundort": "Teich",
     "Größe": "Winzig",
-    "Monat": "März bis Juli",
+    "Monat": ["März", "Juli"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "100 Sternis"
   },
-  "Frosch": {
+  {
+    "Name": "Frosch",
     "Fundort": "Teich",
     "Größe": "Klein",
-    "Monat": "Mai bis August",
+    "Monat": ["Mai", "August"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "120 Sternis"
   },
-  "Flussgrundel": {
+  {
+    "Name": "Flussgrundel",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "400 Sternis"
   },
-  "Bachschmerle": {
+  {
+    "Name": "Bachschmerle",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "März bis Mai",
+    "Monat": ["März", "Mai"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "400 Sternis"
   },
-  "Katzenwels": {
+  {
+    "Name": "Katzenwels",
     "Fundort": "Teich",
     "Größe": "Sehr groß",
-    "Monat": "Mai bis Oktober",
-    "Uhrzeit": "06:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Mai", "Oktober"],
+    "Uhrzeit": ["06:00", "09:00"],
     "Wert": "800 Sternis"
   },
-  "Schlangenkopf": {
+  {
+    "Name": "Schlangenkopf",
     "Fundort": "Teich",
     "Größe": "Sehr groß",
-    "Monat": "Juni bis August",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["Juni", "August"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "5.500 Sternis"
   },
-  "Sonnenbarsch": {
+  {
+    "Name": "Sonnenbarsch",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "180 Sternis"
   },
-  "Flussbarsch": {
+  {
+    "Name": "Flussbarsch",
     "Fundort": "Fluss",
     "Größe": "Mittel",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "300 Sternis"
   },
-  "Barsch": {
+  {
+    "Name": "Barsch",
     "Fundort": "Fluss",
     "Größe": "Groß",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "400 Sternis"
   },
-  "Tilapia": {
+  {
+    "Name": "Tilapia",
     "Fundort": "Fluss",
     "Größe": "Mittel",
-    "Monat": "Juni bis Oktober",
+    "Monat": ["Juni", "Oktober"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "800 Sternis"
   },
-  "Hecht": {
+  {
+    "Name": "Hecht",
     "Fundort": "Fluss",
     "Größe": "Sehr groß",
-    "Monat": "September bis Dezember",
+    "Monat": ["September", "Dezember"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "1.800 Sternis"
   },
-  "Stint": {
+  {
+    "Name": "Stint",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Dezember bis Februar",
+    "Monat": ["Dezember", "Februar"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "400 Sternis"
   },
-  "Ayu": {
+  {
+    "Name": "Ayu",
     "Fundort": "Fluss",
     "Größe": "Mittel",
-    "Monat": "Juli bis September",
+    "Monat": ["Juli", "September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "900 Sternis"
   },
-  "Masulachs": {
+  {
+    "Name": "Masulachs",
     "Fundort": "Flussquelle und Wasserfall",
     "Größe": "Mittel",
-    "Monat": "März bis Juni und September bis November",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": [
+      ["März", "Juni"],
+      ["September", "November"]
+    ],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "1.000 Sternis"
   },
-  "Saibling": {
+  {
+    "Name": "Saibling",
     "Fundort": "Flussquelle und Wasserfall",
     "Größe": "Mittel",
-    "Monat": "März bis Juni und September bis November",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": [
+      ["März", "Juni"],
+      ["September", "November"]
+    ],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "3.800 Sternis"
   },
-  "Goldforelle": {
+  {
+    "Name": "Goldforelle",
     "Fundort": "Flussquelle und Wasserfall",
     "Größe": "Groß",
-    "Monat": "März bis Mai und September bis November",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": [
+      ["März", "Mai"],
+      ["September", "November"]
+    ],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "15.000 Sternis"
   },
-  "Huchen": {
+  {
+    "Name": "Huchen",
     "Fundort": "Flussquelle und Wasserfall",
     "Größe": "Riesig",
-    "Monat": "Dezember bis März",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Dezember", "März"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "15.000 Sternis"
   },
-  "Lachs": {
+  {
+    "Name": "Lachs",
     "Fundort": "Flussmündung",
     "Größe": "Groß",
-    "Monat": "September",
+    "Monat": ["September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "700 Sternis"
   },
-  "Königslachs": {
+  {
+    "Name": "Königslachs",
     "Fundort": "Flussmündung",
     "Größe": "Riesig",
-    "Monat": "September",
+    "Monat": ["September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "1.800 Sternis"
   },
-  "Wollhandkrabbe": {
+  {
+    "Name": "Wollhandkrabbe",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "September bis November",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["September", "November"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "2.000 Sternis"
   },
-  "Guppy": {
+  {
+    "Name": "Guppy",
     "Fundort": "Fluss",
     "Größe": "Winzig",
-    "Monat": "April bis November",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["April", "November"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "1.300 Sternis"
   },
-  "Saugbarbe": {
+  {
+    "Name": "Saugbarbe",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Mai bis September",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["Mai", "September"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "1.500 Sternis"
   },
-  "Skalar": {
+  {
+    "Name": "Skalar",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Mai bis Oktober",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Mai", "Oktober"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "3.000 Sternis"
   },
-  "Kampffisch": {
+  {
+    "Name": "Kampffisch",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Mai bis Oktober",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["Mai", "Oktober"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "2.500 Sternis"
   },
-  "Neonsalmler": {
+  {
+    "Name": "Neonsalmler",
     "Fundort": "Fluss",
     "Größe": "Winzig",
-    "Monat": "April bis November",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["April", "November"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "500 Sternis"
   },
-  "Regenbogenfisch": {
+  {
+    "Name": "Regenbogenfisch",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Mai bis Oktober",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr",
+    "Monat": ["Mai ", "Oktober"],
+    "Uhrzeit": ["09:00", "16:00"],
     "Wert": "800 Sternis"
   },
-  "Piranha": {
+  {
+    "Name": "Piranha",
     "Fundort": "Fluss",
     "Größe": "Klein",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "09:00 Uhr bis 16:00 Uhr und 20:00 Uhr bis 04:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": [
+      ["09:00", "16:00"],
+      ["20:00", "04:00"]
+    ],
     "Wert": "2.500 Sternis"
   },
-  "Arowana": {
+  {
+    "Name": "Arowana",
     "Fundort": "Fluss",
     "Größe": "Groß",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "10.000 Sternis"
   },
-  "Lachssalmler": {
+  {
+    "Name": "Lachssalmler",
     "Fundort": "Fluss",
     "Größe": "Sehr groß",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": ["04:00", "21:00"],
     "Wert": "15.000 Sternis"
   },
-  "Knochenhecht": {
+  {
+    "Name": "Knochenhecht",
     "Fundort": "Teich",
     "Größe": "Riesig",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "6.000 Sternis"
   },
-  "Arapaima": {
+  {
+    "Name": "Arapaima",
     "Fundort": "Fluss",
     "Größe": "Sehr groß",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "10.000 Sternis"
   },
-  "Flösselhecht": {
+  {
+    "Name": "Flösselhecht",
     "Fundort": "Fluss",
     "Größe": "Groß",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "21:00 Uhr bis 04:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": ["21:00", "04:00"],
     "Wert": "4.000 Sternis"
   },
-  "Stör": {
+  {
+    "Name": "Stör",
     "Fundort": "Flussmündung",
     "Größe": "Riesig",
-    "Monat": "September bis März",
+    "Monat": ["September ", "März"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "10.000 Sternis"
   },
-  "See-Engel": {
+  {
+    "Name": "See-Engel",
     "Fundort": "Meer",
     "Größe": "Winzig",
-    "Monat": "Dezember bis März",
+    "Monat": ["Dezember ", "März"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "1.000 Sternis"
   },
-  "Seepferdchen": {
+  {
+    "Name": "Seepferdchen",
     "Fundort": "Meer",
     "Größe": "Winzig",
-    "Monat": "April bis November",
+    "Monat": ["April ", "November"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "1.100 Sternis"
   },
-  "Anemonenfisch": {
+  {
+    "Name": "Anemonenfisch",
     "Fundort": "Meer",
     "Größe": "Winzig",
-    "Monat": "April bis September",
+    "Monat": ["April", "September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "650 Sternis"
   },
-  "Paletten-Doktorfisch": {
+  {
+    "Name": "Paletten-Doktorfisch",
     "Fundort": "Meer",
     "Größe": "Klein",
-    "Monat": "April bis September",
+    "Monat": ["April", "September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "1.000 Sternis"
   },
-  "Falterfisch": {
+  {
+    "Name": "Falterfisch",
     "Fundort": "Meer",
     "Größe": "Klein",
-    "Monat": "April bis September",
+    "Monat": ["April", "September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "1.000 Sternis"
   },
-  "Napoleonfisch": {
+  {
+    "Name": "Napoleonfisch",
     "Fundort": "Meer",
     "Größe": "Riesig",
-    "Monat": "Juli bis August",
-    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Monat": ["Juli ", "August"],
+    "Uhrzeit": ["04:00", "21:00"],
     "Wert": "10.000 Sternis"
   },
-  "Rotfeuerfisch": {
+  {
+    "Name": "Rotfeuerfisch",
     "Fundort": "Meer",
     "Größe": "Mittel",
-    "Monat": "April bis November",
+    "Monat": ["April ", "November"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "500 Sternis"
   },
-  "Kugelfisch": {
+  {
+    "Name": "Kugelfisch",
     "Fundort": "Meer",
     "Größe": "Mittel",
-    "Monat": "November bis Februar",
-    "Uhrzeit": "21:00 Uhr bis 04:00Uhr",
+    "Monat": ["November ", "Februar"],
+    "Uhrzeit": ["21:00", "04:00"],
     "Wert": "5.000 Sternis"
   },
-  "Igelfisch": {
+  {
+    "Name": "Igelfisch",
     "Fundort": "Meer",
     "Größe": "Mittel",
-    "Monat": "Juli bis September",
+    "Monat": ["Juli ", "September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "250 Sternis"
   },
-  "Sardelle": {
+  {
+    "Name": "Sardelle",
     "Fundort": "Meer",
     "Größe": "Klein",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["04:00", "21:00"],
     "Wert": "200 Sternis"
   },
-  "Makrele": {
+  {
+    "Name": "Makrele",
     "Fundort": "Meer",
     "Größe": "Klein",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "150 Sternis"
   },
-  "Schnabelbarsch": {
+  {
+    "Name": "Schnabelbarsch",
     "Fundort": "Meer",
     "Größe": "Mittel",
-    "Monat": "Marz bis November",
+    "Monat": ["Marz ", "November"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "5.000 Sternis"
   },
-  "Seebarsch": {
+  {
+    "Name": "Seebarsch",
     "Fundort": "Meer",
     "Größe": "Sehr groß",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "400 Sternis"
   },
-  "Kaiserschnapper": {
+  {
+    "Name": "Kaiserschnapper",
     "Fundort": "Meer",
     "Größe": "Mittel",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "3.000 Sternis"
   },
-  "Kliesche": {
+  {
+    "Name": "Kliesche",
     "Fundort": "Meer",
     "Größe": "Mittel",
-    "Monat": "Oktober bis April",
+    "Monat": ["Oktober", "April"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "300 Sternis"
   },
-  "Flunder": {
+  {
+    "Name": "Flunder",
     "Fundort": "Meer",
     "Größe": "Groß",
-    "Monat": "Oktober bis April",
+    "Monat": ["Oktober", "April"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "800 Sternis"
   },
-  "Kalmar": {
+  {
+    "Name": "Kalmar",
     "Fundort": "Meer",
     "Größe": "Mittel",
-    "Monat": "Dezember bis August",
+    "Monat": ["Dezember", "August"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "500 Sternis"
   },
-  "Muräne": {
+  {
+    "Name": "Muräne",
     "Fundort": "Meer",
     "Größe": "Sehr groß",
-    "Monat": "August bis Oktober",
+    "Monat": ["August", "Oktober"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "2.000 Sternis"
   },
-  "Nasenmuräne": {
+  {
+    "Name": "Nasenmuräne",
     "Fundort": "Meer",
     "Größe": "Schmal",
-    "Monat": "Juni bis Oktober",
+    "Monat": ["Juni", "Oktober"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "600 Sternis"
   },
-  "Thunfisch": {
+  {
+    "Name": "Thunfisch",
     "Fundort": "Steg",
     "Größe": "Riesig",
-    "Monat": "November bis April",
+    "Monat": ["November ", "April"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "7.000 Sternis"
   },
-  "Marlin": {
+  {
+    "Name": "Marlin",
     "Fundort": "Steg",
     "Größe": "Riesig",
-    "Monat": "November bis April und Juli bis September",
+    "Monat": [
+      ["November ", "April"],
+      ["Juli ", "September"]
+    ],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "10.000 Sternis"
   },
-  "Stachelmakrele": {
+  {
+    "Name": "Stachelmakrele",
     "Fundort": "Steg",
     "Größe": "Sehr groß",
-    "Monat": "Mai bis Oktober",
+    "Monat": ["Mai ", "Oktober"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "4.500 Sternis"
   },
-  "Goldmakrele": {
+  {
+    "Name": "Goldmakrele",
     "Fundort": "Steg",
     "Größe": "Sehr groß",
-    "Monat": "Mai bis Oktober",
+    "Monat": ["Mai ", "Oktober"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "6.000 Sternis"
   },
-  "Mondfisch": {
+  {
+    "Name": "Mondfisch",
     "Fundort": "Meer",
     "Größe": "Riesig mit Rückenflosse",
-    "Monat": "Juli bis September",
-    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Monat": ["Juli ", "September"],
+    "Uhrzeit": ["04:00", "21:00"],
     "Wert": "4.000 Sternis"
   },
-  "Rochen": {
+  {
+    "Name": "Rochen",
     "Fundort": "Meer",
     "Größe": "Sehr groß",
-    "Monat": "August bis November",
-    "Uhrzeit": "04:00 Uhr bis 21:00 Uhr",
+    "Monat": ["August ", "November"],
+    "Uhrzeit": ["04:00", "21:00"],
     "Wert": "3.000 Sternis"
   },
-  "Sägehai": {
+  {
+    "Name": "Sägehai",
     "Fundort": "Meer",
     "Größe": "Riesig mit Rückenflosse",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "12.000 Sternis"
   },
-  "Hammerhai": {
+  {
+    "Name": "Hammerhai",
     "Fundort": "Meer",
     "Größe": "Riesig mit Rückenflosse",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "8.000 Sternis"
   },
-  "Hai": {
+  {
+    "Name": "Hai",
     "Fundort": "Meer",
     "Größe": "Riesig mit Rückenflosse",
-    "Monat": "Juni bis September",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["Juni ", "September"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "15.000 Sternis"
   },
-  "Walhai": {
+  {
+    "Name": "Walhai",
     "Fundort": "Meer",
     "Größe": "Riesig mit Rückenflosse",
-    "Monat": "Juni bis September",
+    "Monat": ["Juni ", "September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "13.000 Sternis"
   },
-  "Schiffshalter": {
+  {
+    "Name": "Schiffshalter",
     "Fundort": "Meer",
     "Größe": "Riesig mit Rückenflosse",
-    "Monat": "Juni bis September",
+    "Monat": ["Juni ", "September"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "1.500 Sternis"
   },
-  "Anglerfisch": {
+  {
+    "Name": "Anglerfisch",
     "Fundort": "Meer",
     "Größe": "Sehr groß",
-    "Monat": "November bis März",
-    "Uhrzeit": "16:00 Uhr bis 09:00 Uhr",
+    "Monat": ["November", "März"],
+    "Uhrzeit": ["16:00", "09:00"],
     "Wert": "2.000 Sternis"
   },
-  "Riemenfisch": {
+  {
+    "Name": "Riemenfisch",
     "Fundort": "Meer",
     "Größe": "Riesig",
-    "Monat": "Dezember bis Mai",
+    "Monat": ["Dezember ", "Mai"],
     "Uhrzeit": "Den ganzen Tag über",
     "Wert": "9.000 Sternis"
   },
-  "Glaskopffisch": {
+  {
+    "Name": "Glaskopffisch",
     "Fundort": "Meer",
     "Größe": "Klein",
-    "Monat": "Das ganze Jahr über",
-    "Uhrzeit": "21:00 Uhr bis 04:00 Uhr",
+    "Monat": ["Das ganze Jahr über"],
+    "Uhrzeit": ["21:00", "04:00"],
     "Wert": "15.000 Sternis"
   },
-  "Quastenflosser": {
+  {
+    "Name": "Quastenflosser",
     "Fundort": "Meer bei Regen",
     "Größe": "Riesig",
-    "Monat": "Das ganze Jahr über",
+    "Monat": ["Das ganze Jahr über"],
     "Uhrzeit": " Den ganzen Tag über",
     "Wert": "15.000 Sternis"
   }
-}
+]

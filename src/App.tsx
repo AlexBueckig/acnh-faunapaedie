@@ -1,12 +1,21 @@
 import React from "react";
+import { BrowserRouter, Route } from "react-router-dom";
 import "./App.css";
-import List from "./components/List/";
-import fish from "./data/fish.json";
+import Header from "./components/Header";
+import { Fish, Insects } from "./pages/";
 
 function App() {
   return (
     <div className="App">
-      <List data={fish} />
+      <Header />
+      <BrowserRouter>
+        <Route path="/fish">
+          <Fish />
+        </Route>
+        <Route path="/insects">
+          <Insects />
+        </Route>
+      </BrowserRouter>
     </div>
   );
 }
