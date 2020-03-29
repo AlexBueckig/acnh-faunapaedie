@@ -1,0 +1,15 @@
+.header {
+}
+
+.nav {
+  &__list {
+    display: flex;
+    list-style: none;
+  }
+
+  &__list-item {
+    &:not(:last-of-type) {
+      margin-right: 1em;
+    }
+  }
+}
