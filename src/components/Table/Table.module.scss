@@ -1,8 +1,16 @@
 .table {
+  margin: 0 auto;
+
+  &__thead {
+  }
+
   &__body {
   }
 
   &__tr:nth-child(odd) {
     background: lightgrey;
+  }
+  &__td {
+    font-size: 0.5rem;
   }
 }
