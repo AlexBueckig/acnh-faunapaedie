@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { useFilters, useTable } from "react-table";
+import { useColumnOrder, useFilters, useTable } from "react-table";
 import { useSavedData } from "../../hooks";
 import { DefaultCell, GefangenCell, MonthCell } from "./Cells";
 import {
@@ -75,7 +75,8 @@ const Table = ({ data: list, name }: Props) => {
         accessor: key,
         Filter: filterSelector(key),
         filter: filterFunctionSelector(key),
-        Cell: getCellRenderer(key)
+        Cell: getCellRenderer(key),
+        maxWidth: 100
       })),
     [data]
   );
@@ -85,7 +86,9 @@ const Table = ({ data: list, name }: Props) => {
     getTableBodyProps,
     headerGroups,
     rows,
-    prepareRow
+    prepareRow,
+    setColumnOrder,
+    setHiddenColumns
   } = useTable(
     {
       data,
@@ -94,11 +97,25 @@ const Table = ({ data: list, name }: Props) => {
       autoResetPage: !skipPageResetRef.current,
       autoResetFilters: !skipPageResetRef.current
     },
-    useFilters
+    useFilters,
+    useColumnOrder
   );
 
+  React.useEffect(() => {
+    setHiddenColumns([]);
+    setColumnOrder([
+      "Gefangen",
+      "Name",
+      "Monat",
+      "Fundort",
+      "Größe",
+      "Uhrzeit",
+      "Wert"
+    ]);
+  }, [setHiddenColumns, setColumnOrder]);
+
   return (
-    <table {...getTableProps()}>
+    <table className={styles.table} {...getTableProps()}>
       <thead>
         {headerGroups.map(headerGroup => (
           <tr {...headerGroup.getHeaderGroupProps()}>
