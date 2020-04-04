@@ -17,10 +17,14 @@ const Header = () => {
         </div>
         <ul className={styles["nav__list"]}>
           <li className={styles["nav__list-item"]}>
-            <a href="/fish">Fische</a>
+            <a href="/fish" className={styles["nav__list-link"]}>
+              Fische
+            </a>
           </li>
-          <li>
-            <a href="/insects">Insekten</a>
+          <li className={styles["nav__list-item"]}>
+            <a href="/insects" className={styles["nav__list-link"]}>
+              Insekten
+            </a>
           </li>
         </ul>
       </nav>

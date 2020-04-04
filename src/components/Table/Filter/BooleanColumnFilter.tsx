@@ -15,8 +15,8 @@ const BooleanColumnFilter = ({
       value={filterValue}
     >
       <option value="">Alle</option>
-      <option value="Gefangen">gefangen</option>
-      <option value="ngefangen">nicht gefangen</option>
+      <option value="Gefangen">Ja!</option>
+      <option value="ngefangen">Nein...</option>
     </select>
   );
 };

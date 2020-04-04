@@ -1,4 +1,5 @@
 import React from "react";
+import Container from "../components/Container";
 import Table from "../components/Table";
 import SavedDataProvider from "../context/savedDataContext";
 import insects from "../data/insects.json";
@@ -8,7 +9,9 @@ interface Props {}
 const Insects = (props: Props) => {
   return (
     <SavedDataProvider>
-      <Table data={insects} name="insects" />
+      <Container>
+        <Table data={insects} name="insects" />
+      </Container>
     </SavedDataProvider>
   );
 };

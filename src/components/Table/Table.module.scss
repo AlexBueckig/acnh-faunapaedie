@@ -8,7 +8,7 @@
   }
 
   &__tr:nth-child(odd) {
-    background: lightgrey;
+    background: darken(#fef8dc, 8%);
   }
   &__td {
     font-size: 0.5rem;

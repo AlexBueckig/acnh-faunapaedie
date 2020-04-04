@@ -3,7 +3,7 @@
     "Name": "Kohlweißling",
     "Fundort": "Flattert herum",
     "Monat": ["September", "Juni"],
-    "Uhrzeit": ["04:00", "19"],
+    "Uhrzeit": ["04:00", "19:00"],
     "Wert": "160 Sternis"
   },
   {
@@ -13,42 +13,42 @@
       ["März", "Juni"],
       ["September", "Oktober"]
     ],
-    "Uhrzeit": ["04:00", "19"],
+    "Uhrzeit": ["04:00", "19:00"],
     "Wert": "160 Sternis"
   },
   {
     "Name": "Schwalbenschwanz",
     "Fundort": "Flattert herum",
     "Monat": ["März", "September"],
-    "Uhrzeit": ["04:00", "19"],
+    "Uhrzeit": ["04:00", "19:00"],
     "Wert": "240 Sternis"
   },
   {
     "Name": "Ritterfalter",
     "Fundort": "Flattert herum",
     "Monat": ["März", "Juni"],
-    "Uhrzeit": ["04:00", "19"],
+    "Uhrzeit": ["04:00", "19:00"],
     "Wert": "2.500 Sternis"
   },
   {
     "Name": "Kolibrifalter",
     "Fundort": "Flattert herum",
     "Monat": ["April", "August"],
-    "Uhrzeit": ["04:00", "19"],
+    "Uhrzeit": ["04:00", "19:00"],
     "Wert": "300 Sternis"
   },
   {
     "Name": "Weiße Baumnymphe",
     "Fundort": "Flattert herum",
     "Monat": "Das ganze Jahr über",
-    "Uhrzeit": ["08:00", "19"],
+    "Uhrzeit": ["08:00", "19:00"],
     "Wert": "1.000 Sternis"
   },
   {
     "Name": "Japan-Schillerfalter",
     "Fundort": "Flattert herum",
     "Monat": ["Mai", "August"],
-    "Uhrzeit": ["08:00", "19"],
+    "Uhrzeit": ["08:00", "19:00"],
     "Wert": "300 Sternis"
   },
   {
@@ -124,7 +124,7 @@
     "Name": "Wanderschrecke",
     "Fundort": "Am Boden",
     "Monat": ["August", "November"],
-    "Uhrzeit": ["08:00", "19"],
+    "Uhrzeit": ["08:00", "19:00"],
     "Wert": "600 Sternis"
   },
   {
