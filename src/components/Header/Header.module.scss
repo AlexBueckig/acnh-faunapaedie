@@ -1,7 +1,12 @@
 .header {
+  padding: 1em;
 }
 
 .nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
   &__list {
     display: flex;
     list-style: none;
@@ -11,5 +16,29 @@
     &:not(:last-of-type) {
       margin-right: 1em;
     }
+  }
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1em;
+
+  &__image {
+    height: 48px;
+  }
+  &__text {
+    margin-left: 0.5em;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .nav {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .logo {
+    margin-bottom: 0;
   }
 }

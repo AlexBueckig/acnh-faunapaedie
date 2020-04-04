@@ -4,7 +4,7 @@ import customParseFormat from "dayjs/plugin/customParseFormat";
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
-import "./index.css";
+import "./reset.module.scss";
 import * as serviceWorker from "./serviceWorker";
 
 dayjs.locale("de");

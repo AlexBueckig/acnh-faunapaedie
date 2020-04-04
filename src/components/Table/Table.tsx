@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import { useFilters, useTable } from "react-table";
 import { useSavedData } from "../../hooks";
 import { DefaultCell, GefangenCell, MonthCell } from "./Cells";
@@ -55,12 +55,18 @@ interface Props {
 
 const Table = ({ data: list, name }: Props) => {
   const { savedData } = useSavedData();
+  const skipPageResetRef = useRef(false);
 
   const data = React.useMemo(() => {
+    skipPageResetRef.current = true;
     return list.map(item => {
       return { Gefangen: savedData[item.Name] !== undefined, ...item };
     });
   }, [list, savedData]);
+
+  React.useEffect(() => {
+    skipPageResetRef.current = false;
+  }, [data]);
 
   const columns = React.useMemo(
     () =>
@@ -79,10 +85,17 @@ const Table = ({ data: list, name }: Props) => {
     getTableBodyProps,
     headerGroups,
     rows,
-    prepareRow,
-    state,
-    visibleColumns
-  } = useTable({ data, columns }, useFilters);
+    prepareRow
+  } = useTable(
+    {
+      data,
+      columns,
+      // @ts-ignore
+      autoResetPage: !skipPageResetRef.current,
+      autoResetFilters: !skipPageResetRef.current
+    },
+    useFilters
+  );
 
   return (
     <table {...getTableProps()}>
