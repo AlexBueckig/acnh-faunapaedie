@@ -3,16 +3,17 @@ import React from "react";
 interface Props {}
 
 const MonthColumnFilter = ({
-  column: { filterValue, preFilteredRows, setFilter }
+  column: { filterValue, preFilteredRows, setFilter },
 }: any) => {
   return (
     <select
-      onChange={e => {
+      onChange={(e) => {
         setFilter(e.target.value || undefined); // Set undefined to remove the filter entirely
       }}
       value={filterValue}
     >
       <option value="">Alle</option>
+      <option value="Jahr">Ganzes Jahr</option>
       <option value="Januar">Januar</option>
       <option value="Februar">Februar</option>
       <option value="März">März</option>

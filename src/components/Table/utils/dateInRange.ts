@@ -27,7 +27,12 @@ const dateInRange = (rows: any, id: any, filterValue: any) => {
         return checkRange(row.values[id][0], row.values[id][1], filterValue);
       }
     } else {
-      return row.values[id][0] === "" || row.values[id][0] === filterValue;
+      console.log(row.values[id]);
+      return (
+        row.values[id][0] === "" ||
+        row.values[id][0] === filterValue ||
+        row.values[id][0] === "Das ganze Jahr über"
+      );
     }
   });
 };
